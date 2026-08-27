@@ -717,3 +717,14 @@ Enter Element to be searched: 14 Key element is present in BST
 3. BST Traversals:
 4. Exit
 Enter your choice: 4
+
+
+
+
+Ex 6.    OUTPUT
+
+Preorder traversal of the constructed AVL tree is 
+5 0 -1 1 2 9 6 10 11
+Preorder traversal after deletion of 10 
+5 0 -1 1 2 9 6 11
+
